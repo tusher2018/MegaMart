@@ -1,4 +1,4 @@
-# flutter_ecommerce_155e5
+# Maga Mart
 
 A new Flutter project.
 
